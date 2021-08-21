@@ -1,6 +1,8 @@
 Detail myPlans
+
 -create a start up 
   ^a web for sbmptn course
 -making one big project to be my prototype
   ^python project
 -create one application for students learn
+  ^i need enough money for build it
