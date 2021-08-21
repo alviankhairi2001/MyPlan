@@ -1,3 +1,4 @@
 Detail myPlans
 -create a start up 
 -making one big project to be my prototype
+-create one application for students learn
