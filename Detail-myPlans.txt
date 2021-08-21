@@ -1,4 +1,6 @@
 Detail myPlans
--create a start up 
+-create a start up
+  ^i need a teacher for teach our student
 -making one big project to be my prototype
 -create one application for students learn
+  ^i need enough money for build it
